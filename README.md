@@ -6,6 +6,6 @@ Tony Do
 
 Michael Li
 
-Andrew Nomura
+Andrew Nomura   drew97.nomura@csu.fullerton.edu
 
 Mitchell Norseth
